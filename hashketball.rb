@@ -81,7 +81,7 @@ def game_hash
           :slam_dunks => 0
         },
         {
-          :player_name => 'Reggie Evans',
+          :player_name => 'Bismack Biyombo',
           :number => 0,
           :shoe => 0,
           :points => 0,
